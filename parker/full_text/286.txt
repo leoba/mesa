@@ -1,0 +1,573 @@
+
+                 
+                     UK 
+                     Cambridge 
+                     Corpus Christi College 
+                     Parker Library 
+                     286 
+                     
+                         L. 15 
+                     
+                     
+                         136 
+                     
+                 
+                 Gospels of St Augustine 
+                 Evangelia Cantuariensia 
+                  Vellum ,  
+                         245 
+                         190 
+                     ,  9.5 x 7.5 ,  ff. 2 +
+                        265 + 6 ,  double columns of 25 lines to a page .
+                    Assigned to the  vi th cent. by  Tischendorf  (note by him on last flyleaf  (f.
+                             vr ) ) on account of its marked likeness to  Codex Amiatinus ; to the
+                         vi th cent. also by  Traube 
+                    (note in catalogue); to the  vii th cent. by more recent
+                    writers.  In fine uncials on lines ruled with the dry point ;
+                    words not divided. Beginnings of clauses are thrown out; the rest of the clause
+                    indented.  First words of chapters in red . Sections
+                    (Eusebian-Ammonian) and headlines (occasional)  in smaller
+                        hand .  Each gospel is said to be in a distinct
+                        hand .  
+
+                  Collation: 
+                     a 2 , gap, iii 2  iv 8 -xii 8 
+                            xiii 10  (wants 1 or 4) xiv 8 -xviii 8  (+
+                        8*) xix 8  (wants 1, 8) xx 8 -xxviii 8 
+                            xxix 4  (wants 4) xxx 8 -xxxvi 8 
+                            xxxvii 4 , b 2  c 2 
+                        d 2  . 
+
+                 Most critics agree in thinking that it was written in  Italy . From  St Augustine's,
+                        Canterbury  (see charters at end).    Ancient
+                            Libraries , pp. lxvii, lxviii . It is probably, but not
+                        certainly, mentioned by  Thomas of Elmham . 
+                 
+
+                 Quires iv-xii have on their last page near the inner corner Q. IIII etc.
+                         in a hand at least near the time of the original . Most
+                    of the others have had a number written in cent.  xiv  on
+                    their first page. This has been erased in a majority of cases.  
+
+                 The vellum is of very unequal quality. The ink has disappeared in a good many
+                    places from the thinner sheets. 
+
+                 f.  ir  blank except for a slight green stain caused perhaps by
+                    metal. f.  iir  has a small rust mark at top.  On f.
+                             iiv  is a bearded head cleverly sketched  by an
+                            English hand  of cent.  x, xi?  
+                 
+
+                 This manuscript was  Bentley's B ,  Westcott's 23 (Dict. Bibl. article Vulgate) . In
+                    the Novum Testamentum Latine of  Wordsworth and White it is X . It
+                    was collated for this edition by  Dr A. W. Streane . It
+                    is no. 20 in  Gregory's Prolegomena, p.
+                        995 . 
+
+
+
+                 The principal reproductions are in:  Westwood, Anglo-Saxon and Irish MSS., pp.
+                        49, 50 .  Westwood,
+                        Palaeographia Sacra Pictoria, pl. ii .  Goodwin, Cambridge Antiquarian Society .
+                    Alphabets, etc., 3 pages of text, painting I, and small scenes from painting II.
+                    In colours.  Palaeographical
+                        Society I, pl. 33, 34, 44 .  Cambridge
+                        Antiquarian Society Proceedings Vol. II, pl. ix, painting II . In
+                    colours.  Garrucci,  Storia del' arte Cristiana  III . 
+                  Mr H. J.
+                        White  (Article Vulgate in  Hastings' Dict. Bib. IV 887 )
+                    says of this MS. (according to tradition sent by  Pope
+                        Gregory  to  Augustine )  the text does not
+                        bear out this supposition, it closely resembles that of the preceding MS.
+                            ( Bodl. Auct. D. 2. 14 ) and is
+                        really Anglo-Saxon, though it has been corrected throughout in accordance
+                        with a MS. of the Amiatinus type.  In spite of this complexion of the
+                    text it must be remembered that a large consensus of critics assign to the
+                    writing and paintings an Italian origin. It is of course possible that like the
+                         Codex Amiatinus  this book may have been
+                    written by an Italian resident in England. 
+                 The latest discussion of the MS. which I
+                    have seen is that by  Dom J. Chapman,  Early History of the Vulgate Gospels  (1908) 183
+                        sqq. , who disagrees with Mr White's conclusions. His final statement
+                    (p. 189) is:  The two noble volumes of Gospels [i.e. this MS. and the Bodleian
+                        Gospels,  Auct. D. 2. 14 ] are old enough
+                        to be what they were believed to be; and I do not think the internal
+                        evidence of their readings can be shown to make this impossible.  
+                 Traube ( Nomina Sacra, p. 189, note 3 ) says:  Es hatten
+                        dns die alten Handschriften, die aus  Rom  und
+                        Süditalien nach  England  durch  Augustin  und seine Nachfolger kamen, Handschriften, von denen
+                        wir selbst noch besitzen z. B. den  Bonifatianus I 
+                        in  Fulda , die Evangelia  S.
+                            Augustini  Cambridge C. C. C. 286 und  Würzburg Theol. Q. 2  (der Laudianus dagegen
+                        schreibt die Nomina sacra aus.)  
+
+
+                 
+                     ff. a-c + i*-iii* + 1* + 1-265 + i-v + d-g . 
+                 
+                     Latin and Old English. 
+                     Contents 
+
+
+                     
+                         
+                             Gospel of  Matthew  
+                         
+                         
+                             Evangelia quatuor Latine secundum versionem  D. Hieronimi , haud tamen absque majoris momenti
+                                lectionibus ab editione vulgata discrepantibus. De hoc autem codice
+                                notandum est eum ab aliis antiquissimis codicibus, quos in  Anglia  scriptos esse constat, cum quoad
+                                membranorum faciem tum quoad atramenti colorem tum denique quoad
+                                literarum ductum maxime differre. Quae quidem cum aliis infra
+                                dicendis rationibus faciunt ut credam hunc codicem unum esse eorum
+                                quos ad  Augustinum  Anglorum apostolum et
+                                primum Dorobernensem archiepiscopum mille et centum abhinc annis
+                                misit  Gregorius magnus papa Romanus . De
+                                libris ab eo in  Angliam  missis consulat
+                                eruditus lector  Iohannem Diaconum  in vita
+                                     Gregorii magni  cap. 37. et  Beda  historiam ecclesiasticam lib. i. cap.
+                                29 
+                         
+                         f.  1r  begins imperfectly in capitula of  Matthew  (xii) 
+                         (Nine)uitarum signum  pharisaeis tradit  matrem
+                            et fratres spernit 
+                         xxviii ends 
+                         et doctrina eius de baptismo 
+                         Explicuerunt 
+                         (red) 
+                         Below this is written ( xi? )
+                                 Siferð  7 tate  
+                         Incipit ipse liber 
+                         On f.  2v  is only  Mattheus 
+                            hominem in large capitals 
+                         Text begins at top of f.  3r  
+                         Liber generationis 
+                         (in red) 
+                         
+                             This page bears some stains from a lost
+                                frontispiece 
+                         
+                         A conspicuous corrector,  who writes in black
+                                uncials , appears on f.  14r ,
+                                 15r  etc.: he may be of cent.
+                                 viii . A later corrector,  English
+                                    ( ix? ) , writes haec on f.
+                                 14v , imperauit on  18r , muliere on f.
+                                 45v  etc. 
+                         On f.  29r , col. 2, is seen  a line written in
+                                the same script as the section-numbers . See also f.
+                                 39r , col. 1, and notably f.  58v , col.
+                            2, bottom 
+                         Ends  74r ,  colophon in rustic capitals, lines
+                                alternately red and black  
+                         Explicit Euangelium  secundum  Mattheum   Incipit Euangelium  secundum  marcum   Deo gratias  
+                     
+
+                     
+                         
+                             Prologue and Capitula to  Mark  
+                         
+                         
+                             Two little heads of dogs (?)sketched at top of f.
+                                     75r  
+                         
+                         Prologue to  Mark  
+                          Marcus  euangelista
+                            dei 
+
+
+                         incrementum dat deus est 
+                         Explicit prologus 
+                         ( rustic capitals, red ) 
+                         Incipiunt capitula 
+                         i de  iohanne baptista  et
+                            uictu etc. 
+                         xiii -et resurrectio eius 
+                         Explicuerunt  capitula. 
+                     
+
+
+                     
+                         
+                             Gospels of  Mark ,  Luke  and  John  
+                         
+                         Incipit  ipse liber 
+
+                         Text, beginning in red 
+
+                          Between the columns is drawn a half-length
+                                figure of a being with lion's claws and ears, and human face,
+                                winged, holding a book (facsimile in  Goodwin, l.c. ). It is before this
+                                leaf that the leaf with the frontispiece seems to have stood: there
+                                are some colour-stains on  78r  . 
+
+                          91r , col. 2, has been largely re-inked 
+                         Ends  124r . Colophon as before  in red and black
+                                rustic capitals  
+
+                         Explicit Euangelium secund(um)   Marcum . Incipit  secundum  Luca  
+                          124v  blank 
+                         
+                             On f.  125r  the famous painting in twelve
+                                compartments. For reproductions see above. Another painting most
+                                probably preceded it 
+                         
+                          125v  is blank 
+                         Prologue 
+                          Lucas  syrus antiocensis
+                            arte medicus 
+
+                         prodisse 
+
+                         Explicit prologus  Incipiunt capitula 
+                         i  Zacharias  angelo non
+                            credens 
+                         xx -resurrectio eius et reliqua 
+
+                         Explicuerunt  Brebes. Incipit  ipse
+                            liber 
+
+                         
+                              129v  has the second painting, of  St Luke , surrounded by scenes from the
+                                Ministry. For reproductions see above 
+                         
+
+                         Headline in rustic 
+                         Incipit Euangelium secundum  Luca  
+                         Text 
+                         Quoniam quidem 
+                         After  130v  a leaf is gone.  130v  ends Et
+                            incredibiles (1 17).  131r  begins Et regni eius (1
+                            33) 
+                         On f.  194v , col. 2  passio dni nri  is written in
+                            the hand of the later corrector ( English minuscule of cent.
+                                     viii?  ) 
+
+                         Ends 
+                         Explicit Euangelium secundum  Luca .  Incipit secundum  Iohanne   Inc. prologus  eiusdem.
+                            Deo  gratias 
+                         
+                             Here a leaf with the frontispiece to John is missing. There
+                                are slight stains on f.  206r  
+                         
+                         Headline 
+                         Praefatio 
+                         Iohannes euangelista 
+
+                         doctrina seruetur. Amen 
+
+                         Explicit prologus  Incipiunt capitula 
+                         i Pharisaeorum leuitae 
+                         xiv -Et resurrectio eius 
+
+                         Expliciunt capitula. incipit ipse liber 
+
+                         At top of  207v 
+                             in rustic capitals  + More volans aquilae petit
+                            astra  Iohannes  
+
+                         Text 
+                         In principio erat  uerbum 
+                         
+                             On f.  256r  is a spirited sketch of a man in a
+                                pointed cap gesticulating: probably meant for a Jew 
+                         
+
+                         Ends 
+                         Explicit Euangelium  secundum  Iohannem   Deo gratias  semper. Amen 
+
+                     
+
+                     
+                         
+                             Grant of renders from land at  Brabourne,
+                                    Kent  by  Ealhburg  to  St Augustine's Abbey , c. A.D.
+                                     850  
+                         
+                         
+                             Testamentum  Ealhburgae  in quo
+                                recitantur quae legavit  monasterio S.
+                                    Augustini  
+                         
+
+                         
+                             Quod quidem testamentum publicavit  D.
+                                    Georgius Hickesius  in dissertatione sua
+                                epistolari 
+                         
+
+                         On f.  74v ,  in fine round black hand ,
+                            the Will of  Ealhburh  
+
+                         In nomine domini  ealhburh 
+                            hafaþ geset myd hyre freonda 
+                         (facsimile in  Goodwin, Cambridge
+                                Antiquarian Society 1847, pl. 1 ) 
+                         agife land 7 bec þam hiƿum to  sanctæ agustine  
+                         
+                             Wanley, p. 151 
+                         
+
+                         
+                             
+                                 S 1198 
+                             
+                         
+
+                     
+
+                     
+                         
+                             Agreement between  Wulfric, abbot of St
+                                    Augustine's, Canterbury , and  Ealdred,
+                                    son of Lyfing , about land at  Clife,
+                                    Kent , c. A.D.  990 x 1005  
+                         
+                         
+                             Conventio Saxonice scripta [Paulo ante initium evangelii secundum
+                                D. Marcum] quae facta fuit inter  Wulfricum
+                                    abbatem  [qui floruit A.D.  949 ] et  Ealredum Lifingi filium  
+                         
+
+                         On f.  77v , originally blank,  in good black
+                                hand  
+                         In nomine domini nostri Iesu Christi her sƿutelað on
+                            þisum geƿrite hu ƿulfric abb. 
+
+
+                         (facsimile in  Goodwin,
+                            l.c. ) 
+
+                         to hyra saƿle ðearfe á butan ende; amen 
+                         
+                             Wanley, p. 157 
+                         
+
+                         
+                             
+                                 S 1455 
+                             
+                         
+
+                     
+
+                     
+                         
+                             Agreement about land at  Wicham  
+                         
+                         
+                             Redditio terrae de  Wicham  Deo et  S. Augustino  et  domino
+                                    Hugoni abbati  per  Robertum
+                                    Fresla , in illa quadragesima in qua  rex Henricus  dedit filiam suam imperatori 
+                         
+
+                         Item de terra  WICHAM 
+                            nominata, etc. 
+                         
+                             This is in a hand very closely resembling that of the Missal
+                                     MS 270  
+                         
+
+                     
+
+                     
+                         
+                             Agreement between  Osbern de Ripla  and
+                                     St Augustine's Abbey  
+                         
+                         
+                             Conventio inter  Osbernum de Ripla 
+                                filiosque ejus et abbatem  S. Augustini  de
+                                annua pensione XVIs. VIIId. solvenda ex terra de  Ripla  
+                         
+                         Hec est actio que facta est in presentia  hugonis abbatis secundi  
+                          Anno ab incarnatione domini Mill mo  c o 
+                                    xlvi to  xv mo  kal. apr.  apud  Norburnam  in Hallimoto 
+                         
+                             In a good black pointed hand 
+                         
+                     
+
+                     
+                         
+                             List of relics 
+                         
+                         
+                             Reliquiae quae sunt in uno parvo nigro scrinio uno flore
+                                notato 
+                         
+
+                         Héé sunt reliquie in uno paruo nigro scrinio flore
+                            uno signato. De ligno domini plures particule. De sepulchro domini. De
+                            Scapula  Sancti Nicomedis martiris . De
+                            Capillis  Sancte Cecilie uirginis et martiris ,
+                            De  Sancta Margareta . De  Sancto Ianuario . De uestis  Sancte
+                                Marie . De ossibus et uestis  Sancti
+                                Clementis martiris . De uestis  Sancte
+                                Cecilie . De  Sancto Antonio
+                                episcopo . De  Sancto Laurentio
+                                martire . De  Sancto Johanne
+                                Baptista  os unum. De  Sancto Pancratio
+                                martire . Costa de  Sancto Mathia
+                                Apostolo . De  Sanctis
+                                Wandregesilo - Martino -  Medardo  atque  Gildardo ,  Odulfo episcopo ,  Audoeno , Dens  Sancti
+                                Vedasti , De  Sanctis Wlgaro ,  Paulino ,  Affre ,
+                                 Geruasio ,  Ambrosio . De cruce  Sancti Andree
+                                apostoli , De  Sanctis Mildretha ,
+                                 Wilfrido ,  Eadgitha ,  Folquino ,  Walburga ,  Amato
+                                Episcopo ,  Petrocio ,  Bartholomeo Apostolo ,  Tecla . Digitus  Sancti Gregorii .
+                            De  Sancto Jacobo Apostolo fratre Sancti
+                                Johannis . De  Sanctis Nicholao ,
+                                 Leonardo ,  Benedicto  et alie plures reliquie sine scriptis. Et de  Sancta Fide Virgine 
+                         
+                         In a separate line:   Hollord .
+                                     Ketil .  Ozor .  Yun .  Andreus .  Asclathe   
+                          iir  blank 
+
+                     
+
+                     
+                         
+                             Agreement about a hill near  Sakenhethe  
+                         
+                         
+                             Concessio collis, qui est proximus  Sakenhethe ,  Jacobo filio
+                                    Gilrici  per  Robertum abbatem 
+                                et conventum, ea conditione ut dictus  Jacobus  ibi faciet unam salinam et reddet annuatim ad
+                                     curiam de Cistelet  II ferdendellos
+                                salis et V solidos 
+                         
+
+                         On f.  iiv 
+                             in charter hand of cent.  xiii  ,
+                            of the time of  Abbot Robert (de Bello) 
+                             1224 - 1252  
+
+
+                     
+
+                     
+                         
+                             Agreement about seven acres in  Betleshangre  
+                         
+                         
+                             Concessio 7 acrarum in  Betleshangre 
+                                 Willelmo filio Hugonis de Betleshangre 
+                                per  Robertum abbatem  et conventum,
+                                reservata pensione XLII denariorum  curiae de
+                                    Norb.  annuatim solvenda 
+                         
+
+                         On f.  iiv 
+                             in charter hand of cent.  xiii  ,
+                            of the time of  Abbot Robert (de Bello) 
+                             1224 - 1252  
+
+                     
+
+                     
+                         
+                             Agreement about the messuage of  Colombine the
+                                    cleric  
+                         
+                         
+                             Concessio messuagii  Columbino clerico 
+                                per eundem abbatem et conventum, reservata pensione Xs 
+                         
+
+                         On f.  iiv 
+                             in charter hand of cent.  xiii  ,
+                            of the time of  Abbot Robert (de Bello) 
+                             1224 - 1252  
+
+                     
+
+                     
+                         
+                             Agreement about the messuage of  Benedict son
+                                    of Radulph  
+                         
+                         
+                             Concessio messuagii  Benedicto filio
+                                    Radulphi  per abbatem et conventum reservata pensione
+                                XIIIIs. annuatim 
+                         
+
+                         On f.  iiv 
+                             in charter hand of cent.  xiii  ,
+                            of the time of  Abbot Robert (de Bello) 
+                             1224 - 1252  
+
+                     
+
+                     
+                         
+                             Agreement about ten and a half acres at  Estbotleshangre  
+                         
+                         
+                             Concessio 10 acrarum terrae et dim. in villa de  Estbotleshengre 
+                                 Hamoni filio Willelmi de Botleshanger  per
+                                     Robertum elemosinarium  cum consensu
+                                abbatis et conventus 
+                         
+                         On f.  iiir 
+                             in charter hand of cent.  xiii  ,
+                            of the time of  Abbot Robert (de Bello) 
+                             1224 - 1252  
+
+                     
+
+                     
+                         
+                             Confirmation of the previous agreement about ten and a half acres
+                                at  Estbotleshangre  
+                         
+                         
+                             Confirmatio ejusdem donationis per abbatem et conventum 
+                         
+
+                         On f.  iiir 
+                             in charter hand of cent.  xiii  ,
+                            of the time of  Abbot Robert (de Bello) 
+                             1224 - 1252  
+
+                     
+
+                     
+                         
+                             Agreement about the garden of  William son of
+                                    John of Fenglesham  
+                         
+                         
+                             Concessio cujusdam horti  Willelmo filio
+                                    Iohannis de Fenglesham  per dictum elemosinarium 
+                         
+
+                         On f.  iiir 
+                             in charter hand of cent.  xiii  ,
+                            of the time of  Abbot Robert (de Bello) 
+                             1224 - 1252  
+
+                          iiiv - viv  blank: unimportant scribbles on
+                            f.  ivv  
+
+                         On the paper flyleaf at end is this note:  Codex tanta
+                                similitudine  codicis Amiatini 
+                                excellit ut omnino saeculi vi esse dicendus sit. M.  mart. 9.
+                                    a. 1865 .  Const.
+                                Tischendorf   
+                     
+
+                 
+                 
+                     
+                         
+                             text: copied from James.txt SP 
+                             markup: SP 
+                             markupCheck: checked by SP, BA, CF 
+                             msCheck: RJR 16/12/2008 
+                             remarks: 
+                         
+                     
+                 
+            

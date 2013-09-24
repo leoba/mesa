@@ -1,0 +1,154 @@
+
+                 
+                     UK 
+                     Cambridge 
+                     Corpus Christi College 
+                     Parker Library 
+                     399 
+                     
+                         I. 14 
+                     
+                     
+                         104 
+                     
+                 
+                 Julian of Toledo, Prognosticon futuri saeculi 
+                 Iulianus Toletanus 
+                  Vellum ,  
+                         217 
+                         139 
+                     ,  8.6 x 5.5 ,  ff. 1 +
+                        140 ,  21 lines to a page . Cent.
+                         ix  ( Bradshaw ),  in
+                        a large upright rather heavy and coarse minuscule. The ornaments show some
+                        Celtic influence. The  a  is sometimes open at the top
+                        like  u , sometimes of the ordinary  a  form . 
+
+                  Collation: 
+                     a 2 , 1 8  (wants 1) 2 8 -17 8  |
+                            18 6  (5 canc.) . 
+
+                  2 fo.: 
+                     mortalium . 
+
+                 There are a few corrections of cent.
+                         xii ,  very possibly in English
+                        hands , but I have not found any notes or scribbles which give a
+                    clue to the monastic provenance. 
+
+                 On f.  ir  a title and note of contents in a
+                    hand which I take to be of cent.  xvi early . It is like that
+                    of  MS 395. 2 . Note that  395  is Catalan. 
+
+                 On f.  iv  an erasure of cent.
+                         xiii  irrecoverable.    iir  blank 
+
+                 
+                     ff. a-c + i-ii + 1-140 + d . 
+
+                 
+                     Latin. 
+                     Contents 
+
+
+
+                     
+                         
+                             Julian of Toledo ,  Prognosticon futuri
+                                saeculi 
+                         
+
+                         occupied by a title  in red and black
+                                capitals  of cent.  xii .  Initial in
+                                red and green  
+
+                         Incipit liber Pronosticorum futuri seculi /.   
+                            Sanctissimo ac / pre ceteris familiarissimo michi domino / ydalio
+                            Barcilonensis / sedis episcopo  Iulianus
+                                Toletane  sedis Episcopus 
+
+
+                         (  P. L. 
+                                XCVI  453) 
+
+                         
+                             The original hand begins 
+                         
+                         Diem illum clara ... a redemptori omnium exceptione
+                            conspicuum quo presente anno pariter in urbe regia positi 
+
+
+                         
+                             Initial in black with interlaced pattern left in white;
+                                contains a very rude figure of a nimbed man holding a book in each
+                                hand, a tree on R. 
+                         
+
+
+                         debeat publicari sententiam 
+                         Oratio 
+                         Desertum  idumeae  caecus et
+                            morbidus 
+                         
+                             Initial in black and red 
+                         
+                         pleniori rerum auidentia contueri 
+                         Incipiunt capitula libri primi 
+                         ( capitals, monogrammatized ) 
+                         De origine mortis humanoe 
+                         
+                             Initial with plaited work in the stem 
+                         
+                         Incipit liber de origine mortis humane 
+                         (capitals) 
+                         Quomodo mors primum subintrauerit in mundum. Peccato
+                            primi hominis actum 
+
+                         Incipiunt capitula libri secundi de animabus defuntorum
+                            quo modo habeant ante ultimam corporum resurrectionem 
+                         (capitals) 
+                         Incipit liber secundus de animabus 
+                         ( capitals, red and black ) 
+                         Incipiunt capitula libri tercii de ultima corporum
+                            resurreccione 
+                         ( capitals: rather an elaborate initial in red; not of Celtic
+                                pattern ) 
+                         Incipit liber de ultima corporum resurrecione feliciter
+                            amen 
+                         ( capitals: less elaborate initial ) 
+                         Quod tempus et diem iudicii 
+                         
+                             Initial with something of Celtic flavour 
+                         
+                         From f.  102r  to f.  115r 
+                             the ink is paler and the hand seems different  
+
+                         On f.  115v  the former aspect is resumed 
+                         The old hand ends imperfectly in capitulum lvi 
+                         Quod tamen utrum in reprobis habeatur est fortasse
+                            ambiguum quia iuxta 
+                         ff.  136r  to end are a supply  in a good clear
+                                hand  of cent.  xii : ending 
+
+                         uenire ad regnum cuius nullus est finis 
+                         Explicit 
+                         ff.  139v - 140r  are blank (f.
+                                 140v  pasted over) 
+                     
+
+
+
+                 
+                 
+                     
+                         
+                             text: copied from James.txt BA 
+                             markup: BA 
+                             markupCheck: checked by BA, SP, CF 
+                             msCheck: SP 12/8/08 
+                             remarks: Modern editor (Hillgarth) entitles text: Prognosticum future
+                                saeculi. 
+                         
+                     
+                 
+            

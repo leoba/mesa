@@ -1,0 +1,95 @@
+
+                 
+                     UK 
+                     Cambridge 
+                     Corpus Christi College 
+                     Parker Library 
+                     147 
+                     
+                         R. 3 
+                     
+                     
+                         156 
+                     
+                 
+                 Wycliffite Bible (Later Version) 
+                 Bible in English 
+                  Vellum ,  
+                         310 
+                         200 
+                      12.2 x 8 ,  ff.
+                        454 ,  double columns of 60 and 59 lines . Cent.
+                         xv  ( perhaps  before 1430  ),
+                         by several scribes .  
+
+                  Collation: 
+                     1 12  2 12  (wants 12)
+                            3 12 -25 12  26 10 
+                            27 12 -31 12  (+1) | 32 8  (wants 7)
+                            33 12  34 12  35 8 
+                            36 12 -39 12  (wants 4, 11, 12) . 
+
+                 It is no. 116 in  Forshall and Madden (I
+                        p. lv) . 
+
+                 There are marginal notes on the prologue by  Geoffrey Blithe, Bishop of Coventry and Lichfield
+                            ( 1503-33 ) , adverse to  Wycliffe . See especially ff.  14v ,  15r :
+                    on the latter page is a  Parker ian note:  This is
+                        the hand of notes of  Galfride Blith  sum-time
+                        Busshop of Lich. and Couentry as before.  
+                 In  Foxe Acts and Monuments IV  186
+                    articles are cited which were produced against  Richard
+                        Hun  ( 1514 ):   Dr Hed  did now
+                        also after his death collect certaine others out of the prologue of his
+                        English Bible remaining then in the Bishop's hands  ( Fitzjames of London ). Many or all of the passages in the Prologue to
+                    which these Articles refer are marked or annotated in our MS. by  Blithe . It has been suggested that this may be  Hun 's copy (cf.  Church
+                        Quarterly Review, 1901, p. 292 ). 
+
+
+
+                 
+                     ff. i-ii + 1-454 + iii-iv . 
+
+
+                 
+                     Middle English. 
+                     Contents 
+
+
+
+                     
+                         
+                             Wycliffite Bible (Later Version) 
+                         
+                         
+                             Bible in English. 
+                         
+
+                         Prologue 
+                         Tables of Epistles and Gospels 
+                         Genesis—2 Paralipomenon, Prayer of  Manasses  
+                         Five leaves in  Judith ,  Esther  and  Job  have been removed
+                            and replaced 
+                         Psalms, Proverbs—Ecclesiasticus, Prophets, Maccabees 
+                         Evangelia 
+                         Pauline Epistles 
+                         Acts, Catholic Epistles. A leaf gone in 1, 2  Peter  
+                         Apocalypse ends imperfectly in xxi 18 
+                         Of þe stoon iaspis and 
+                     
+
+
+
+                 
+                 
+                     
+                         
+                             text: copied from James.txt SP 
+                             markup: SP 
+                             markupCheck: checked by SP, CF 
+                             msCheck: NJC 9.10.07 
+                             remarks: 
+                         
+                     
+                 
+            

@@ -1,0 +1,82 @@
+
+                 
+                     UK 
+                     Cambridge 
+                     Corpus Christi College 
+                     Parker Library 
+                     305 
+                     
+                         O. 9 
+                     
+                     
+                         214 
+                     
+                 
+                 William of Nottingham OFM, Commentary on Vnum ex quatuor 
+                 Nottingham Super Evangelia 
+                  Vellum ,  
+                         250 
+                         175 
+                      9.8 x 6.7 ,  ff. 2 +
+                        352 + 1 ,  43-41 lines to a page . Cent.
+                         xiv late ,  clearly written . 
+                  Collation: 
+                     a 2  1 12 -3 12  (+ 7*)
+                            4 12 -8 12  | 9 6 
+                            10 12 -12 12  (+ slip) 13 12 -18 12 
+                        (+ 1) 19 12  | 20 12 -29 12  30 8 , 1
+                        flyleaf . 
+                  2 fo.: 
+                     Da michi 
+                     or 
+                     uelaminum . 
+
+                 On f.  iiv :  Incipit quedam extractio
+                        extracta ab illa magna compilacione que appellatur Notyngham super
+                        euangelia. In hac extractione non exponuntur omnia euangelia sed aliqua que
+                        videbantur extractori fore magis proficua minus literatis ... et sic
+                        continuatur illa quotacio foliorum ordinatim ascendendo usque ad finem
+                        libri . 
+
+                 This prologue is chiefly occupied in explaining the arrangement of the Gospels
+                    treated, and the nature of the table. 
+
+                 
+                     ff. a + i-ii + 1-129 + 129a + 130-353 + b-c . 
+
+                 
+                     Latin. 
+                     Contents 
+
+                     
+                          William of Nottingham OFM ,
+                                 Commentary on Vnum ex quatuor  
+                         Text 
+                         Da michi intellectum et scrutabor legem tuam, etc.
+                                 Dionisius  de diuinis nominibus ca o  3 o  dicit
+                            quod ante omne, etc. 
+                         imprimis esse diligencius insistendum 
+                         Incipit pars prima: Capitulum primum. Johannis primo.
+                            In principio, etc. 
+                         The Table occupies  214v - 222v  
+                          223r - 224v  blank 
+                         Ends 
+                         magis inuenitur in uolu(n)tario paupere quam in
+                            quocunque diuite 
+                         Three blank leaves and blank flyleaf follow 
+
+                     
+
+                 
+                 
+                     
+                         
+                             text: copied from James.txt SP 
+                             markup: SP 
+                             markupCheck: checked by SP, CF, BA 
+                             msCheck: NJM 31.07.2007 
+                             remarks: 
+                         
+                     
+                 
+            

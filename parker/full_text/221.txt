@@ -1,0 +1,202 @@
+
+                 
+                     UK 
+                     Cambridge 
+                     Corpus Christi College 
+                     Parker Library 
+                     221 
+                     
+                         Lib. ab Al. 24 
+                     
+                     
+                         vac. 
+                     
+                 
+                 Orthographical Works by Alcuin, Bede and others 
+                 Alcuini Orthographia. Beda, Cassiodorius, Caper, etc. 
+                  Vellum ,  
+                         245 
+                         155 
+                      9.8 x 6.5 ,  ff. 24 +
+                        40 + 1 ,  two volumes  of cent.  ix-x and
+                        x-xi  respectively. (Cent.  x ,  Bradshaw ). 
+
+                    Volume I: 
+                     Double columns of 29 lines ,  in a somewhat sloping
+                        Caroline minuscule . Titles in capitals.    Volume
+                        II: 
+                     26 lines to a page :  larger and rounder hand, clear
+                        and good . Cent.  x-xi . Titles in red
+                    capitals. 
+
+                  Collation: 
+                     1 12  2 12  || I 8 -V 8 , 1
+                        flyleaf . 
+
+                  2 fo.: 
+                     exaltatio . 
+
+                 Probably given by  Daniel
+                    Rogers . 
+
+
+                 
+                     ff. i-ii + 1-65 + iii-iv . 
+
+
+                 
+                     Latin. 
+                     Contents 
+
+                      
+
+                     
+                         
+                             Alcuin ,  De orthographia 
+                         
+                         
+                             Orthographia  Albini magistri  
+                         
+
+                         Incipit Ortographya  Albini
+                                Magistri    Me legat antiquas cupiat qui scire
+                            loquelas   Me spernens loquitur mox sine lege patrum 
+
+                         Aeternus aetas per ae dyptongon 
+                         ( Keil,  Grammatici
+                                    Latini . VII 295 ) 
+                         Ends in the letter R 
+                         hirtus, hirtuleus hirrus proprium 
+                         ( Keil, 309, l. 12 ) 
+                         Finet ortographya  Albini
+                                Magistri  
+
+                     
+
+                     
+                         
+                             Bede the Venerable ,  De
+                                orthographia 
+                         
+                         
+                             Liber de orthographia  Bedae
+                                presbiteri  
+                         
+
+                         Incipit Liber de ortographia  Bedae
+                                presbiteri  
+                         A littera etiam nota praenominis 
+                         ( Keil, VII 261-294 ) 
+                         
+                             Hand changes at f.  19v  col. 2 
+                         
+                         Ends 
+                         oratoris sermo pervenit 
+
+                     
+
+                      
+
+                     
+                          Cassiodorus Senator ,  De
+                                orthographia  
+                         
+                              Cassiodori senatoris  liber de
+                                orthographia ex veteribus grammaticis consarcinatus 
+                         
+
+                         Incipit Prefatio  Cassiodori
+                                Senatoris  super ortographiam 
+                         Cum inter nos talia gererentur 
+                         distincta sunt 
+                         Explicit Prefatio 
+                         ( Keil, VII 142-210 ) 
+                         Post commenta psalterii 
+                         si modo liuor abest 
+                          Cassiodori senatoris 
+                            explicit Item Prefatio 
+                         ( Keil, 147 ) 
+                         Ex  agneo
+                            cornuto  
+                         nihil hominus (!) est discendum 
+                          Agnei Cornuti  de enuntiatione
+                            uel ortographia ista revelata (!) sunt 
+                         Animaduerti quosdam 
+                        
+                        
+                         Ends 
+                         poenali Societate coniungi. hunc  cassiodorus senatoris  de ortographia librum ex duodecim
+                            auctorum opusculis defloratum 
+                     
+
+                     
+                          Flavius Caper ,  De
+                                orthographia  
+                         
+                             Liber  Capri  de orthographia 
+                         
+
+                         Incipit liber  Capri  de
+                            ortographia 
+                         Hec uia quo ducimus non ubi (!) 
+                         ( Keil, VII 92 ) 
+                         a similitudine fallarum (stellarum) 
+                         
+                             Keil, p. 107 
+                         
+                     
+
+                     
+                          Flavius Caper ,  De uerbis
+                                dubiis  
+                         Item  Capri  de verbis
+                            dubiis 
+                         In singularibus uerbis 
+                         ( Keil, VII 107 ) 
+                         Ends 
+                         pedagogus nutritor paruulorum 
+                         ( Keil, VII 112, note ) 
+                         Licet origo nominum unde ueniat a philosophis eam
+                            teneat rationem ut per denominationem homo ab humanitate 
+                         quedam in hoc opere posuimus 
+                         Aeros uir fortis et sapiens 
+                        
+                         Ends 
+                         Indagatores a latores pressores. Uenator quasi
+                            uenebu 
+                     
+
+                     
+                          Agroecius ,  De
+                                orthographia  
+                         
+                              Oegrocii  ars 
+                         
+
+                         Incipit ars   o Egrocii  
+                         Incipit prefatio eiusdem ad  Eucherium  Episcopum 
+                         Domino  eucherio  in domino
+                            episcopo salutem  agroecius  libellum  Capri  de ortographia 
+                         ( Keil, VII 113 ) 
+                         Ends 
+                         de turmentis dicimus et de precibus 
+                         ( Keil, VII 125 ) 
+                         The last leaf is blank 
+                        
+
+                     
+
+
+                 
+                 
+                     
+                         
+                             text: copied from James.txt SP 
+                             markup: SP 
+                             markupCheck: checked by SP, BA, CF 
+                             msCheck: RJR 29.11.07 
+                             remarks:  
+                         
+                     
+                 
+            

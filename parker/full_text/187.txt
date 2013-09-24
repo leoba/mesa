@@ -1,0 +1,136 @@
+
+                 
+                     UK 
+                     Cambridge 
+                     Corpus Christi College 
+                     Parker Library 
+                     187 
+                     
+                         A. 3 
+                     
+                     
+                         3 
+                     
+                 
+                 Eusebius of Caesarea, Historia ecclesiastica, transl. by
+                    Rufinus 
+                 Eusebii Historia per Rufinum 
+                  Vellum ,  
+                         293 
+                         192 
+                      11.6 x 7.7 ,  ff.
+                        133 ,  30 and 35 lines to a page . Cent.
+                         xi ,  in a fine and delicate round minuscule.
+                        Two scribes seem readily distinguishable . 
+
+
+                  Collation: 
+                     I 8 -XVI 8  XVII 6  (wants
+                    6) . 
+
+                  2 fo.: 
+                     Testimonium Iosephi . 
+
+                 No mark is left, but from a list of books repaired at  Christ Church, Canterbury , it can be identified as
+                    having belonged to that house. The opening words of the second leaf give the
+                    clue.   Ancient
+                            Libraries , p. 158, no. 155 . 
+
+                 
+                     Titles in small red and green capitals. 
+                 
+
+
+                 It seems evident that this MS. and  MS 184  are related in view of their nearly
+                    identical omissions in Liber XI, xxiii.  
+                     MS 184  reads:  Post hoc reuulsum
+                        ceruicibus que apud illos sunt elementis cuius littere seu uocabuli. 
+                    With no note there, or subsequently, of omission.    MS 187 reads:  Post
+                        hoc reuulsum ceruicibus [then an erasure of a few words and .Θ. written in
+                        the space]. Cuius littere seu uocabuli.  The omitted text is supplied on
+                    ff.  131v - 133r  preceded by a Θ.   It seems
+                    likely to me that the words  que apud illos sunt elementis  were originally
+                    written in MS 187 (which was copied from a mutilated archetype): that the
+                    omission was discovered later on, the words erased and a sign of omission put
+                    in, and the text written at the end of the book. In the interval the  MS 184  was copied from MS 187. 
+
+                 
+                     ff. i-ii + 1-133 + iii-iv . 
+
+                 
+                     Latin 
+                     Contents 
+
+                     
+                          Eusebius of Caesarea ,
+                                 Historia ecclesiastica, transl. by  Rufinus  
+                         
+
+                         Incipit Prefatio historie Ecclesiastice. Epistola  Rufini  ad  Chromatium  
+                         (  P. L.  XXI
+                                462 ) 
+                         Peritorum dicunt esse 
+                         
+                             Rather rough initial in red, green and blue 
+                         
+                         usque ad obitum  theodosii
+                                augusti  
+                         Explicit prefatio 
+                         Incipit Capitula libri primi 
+                         Expliciunt capitula libri primi 
+                         Incipit hystorie Ecclesiastice  Eusebii  Cesariensis Episcopi liber primus Capitulum
+                            I 
+                         Successiones sanctorum Apostolorum 
+                         
+                             Initial in blue, red, and green 
+                         
+                         
+                             The hand changes on f.  17v  
+                         
+                         Liber II 
+                          Liber  III 
+                          Liber  IV 
+                          Liber  V 
+                         At the beginning of liber V is the note 
+                         
+                             Juxta librum alium quem vidi iste liber 5 non diuiditur in capitula.
+                                hic tamen diuiditur et iuxta hoc cotaui 
+                         
+                          Liber  VI 
+                          Liber  VII 
+                          Liber  VIII 
+                          Liber  IX 
+                          Liber  X 
+                          Liber  XI 
+                         Ends 
+                         percepturus premia meritorum 
+                         Hystorie ecclesiastice liber xi explicit 
+                         After this is supplied  in a later, smaller and rougher script
+                                    ( xii )  a portion of text omitted
+                            in c. xxiii-xxix of liber XI, on the destruction of the Serapeum and
+                            various corruptions of paganism 
+                         et depressum e medio simul extrahitur caput 
+                         ( Berlin edition. Eusebius II 2.
+                                1028, l. 20 ) 
+                         litterarum que apud illos sunt elementis 
+                         ( Berlin edition Eusebius II 2.
+                                p. 1035, l. 8 .) 
+                          133v  blank 
+                         There are some neat marginalia  in a hand of cent.
+                                     xiv late or xv early   
+
+                     
+
+                 
+                 
+                     
+                         
+                             text: copied from James.txt SP 
+                             markup: SP 
+                             markupCheck: checked by SP, BA, CF 
+                             msCheck: RJR 5.10.07 
+                             remarks: 
+                         
+                     
+                 
+            

@@ -1,0 +1,121 @@
+
+                 
+                     UK 
+                     Cambridge 
+                     Corpus Christi College 
+                     Parker Library 
+                     352 
+                     
+                         2. 14 
+                     
+                     
+                         309 
+                     
+                 
+                 Boethius, De institutione arithmetica 
+                 Boethii Arithmetica 
+                  Vellum ,  
+                         300 
+                         220 
+                     ,  11.9 x 8.5 ,  ff.
+                        80 ,  22 lines to a page . Cent.
+                         ix-x  ( Bradshaw ),
+                         in a beautiful  insular  minuscule . 
+
+
+                  Collation: 
+                     1 8 -9 8  10 ?2  (2 canc.) 11 8 
+                        (wants 8) . 
+
+                  2 fo.: 
+                     caligantibus . 
+
+
+                 From  St Augustine's, Canterbury :
+                    on f.  ir  ( xiv ):  Arsmetica  Boecii  cum A.   Liber  Sancti Augustini
+                        Cant. 
+                 
+
+
+                 On f.  iv 
+                     in an earlier black hand : Arimethica  Boetii .   Ancient Libraries , p. 303, no. 1008 . 
+
+                 On f.  ir 
+                     a quatrefoil diagram, marked with Roman numerals, in many
+                        compartments. At top and bottom Longitudo, on R. and L. Latitudo, in
+                        capitals . It occurs again at the head of cap. XII, f.
+                         14r . 
+
+                 
+                     ff. i-ii + 1-80 + iii-iv . 
+                 
+                     Latin. 
+                     Contents 
+
+
+
+                     
+                         
+                             Boethius ,  De institutione
+                                arithmetica  
+
+                         
+                             In red 
+                         
+                         Domino meo  patricio  suma fide
+                                 boetius  salutem 
+                         In dandis accipiendisque muneribus 
+                         ( LXII  (actually
+                                    LXIII)   1079) 
+
+                         Glosses, some in small upright script, beginning: 
+                         Ordo est. Si liquido constabit nec ab hoc aliud
+                            inuentum 
+                         Others in the hand of the text 
+                         auctor merito quam probator 
+                         
+                             In red 
+                         
+                         Finit prologus  sesibuti  
+                         Incipit prologus  nicomachi  
+                         Inter omnes prisce auctoritatis uiros 
+                         
+                             Diagrams in red: some, e.g. on f.  30r , with
+                                slight ornament. Initials in green and red 
+                         
+
+                         Liber II 
+
+                         Ends imperfectly in capitulum liii (or liv) 
+
+                         uel ab inaequalibus ad aequalia aequaliter uel
+                            quotlibet 
+
+                         The last rubric is: 
+
+                         De maxima et perfecta symphonia que tribus
+                            distenditur interuallis 
+
+                         
+                             The signs used to show the references of the glosses to the
+                                text are very noteworthy 
+                         
+
+
+                     
+
+
+
+                 
+                 
+                     
+                         
+                             text: copied from James.txt BA 
+                             markup: BA 
+                             markupCheck: checked by BA, SP, CF 
+                             msCheck: SP 11/8/08 
+                             remarks: 
+                         
+                     
+                 
+            
