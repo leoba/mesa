@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen type="xml" RNGSchema="tei_walters_ms.rng"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="n506.048122" version="5.0"><teiHeader type="text" xml:id="n506.048123"><fileDesc xml:id="n506.048124"><titleStmt xml:id="n506.048125"><title type="common" xml:id="n506.048126">Walters Ms. W.732, Single leaf and fragment with Crucifixion and colophon</title>
+<title type="work" xml:id="n506.048127" n="item 687">Prayer book fragments</title>
+<respStmt xml:id="scribe_682"><resp xml:id="n506.048128">scribe</resp>
+<name type="as-written" xml:id="n506.048129">Leonhardum Wirstlin</name>
+<name type="known-as" xml:id="n506.048130">Leonhard Wagner</name>
+</respStmt>
+<respStmt xml:id="artist_685"><resp xml:id="n506.048131">artist</resp>
+<name type="supplied" xml:id="n506.048132">School of Hans Holbein the Elder</name>
+</respStmt>
+<respStmt xml:id="n506.048133"><resp xml:id="n506.048134">Cataloger</resp>
+<name xml:id="n506.048135">Dutschke, Consuelo</name>
+</respStmt>
+<respStmt xml:id="n506.048136"><resp xml:id="n506.048137">Cataloger</resp>
+<name xml:id="n506.048138">Herbert, Lynley</name>
+</respStmt>
+<respStmt xml:id="n506.048139"><resp xml:id="n506.048140">Cataloger</resp>
+<name xml:id="n506.048141">Noel, William</name>
+</respStmt>
+<respStmt xml:id="n506.048142"><resp xml:id="n506.048143">Cataloger</resp>
+<name xml:id="n506.048144">Sciacca, Christine</name>
+</respStmt>
+<respStmt xml:id="n506.048145"><resp xml:id="n506.048146">Cataloger</resp>
+<name xml:id="n506.048147">Valle, Chiara</name>
+</respStmt>
+<respStmt xml:id="n506.048148"><resp xml:id="n506.048149">Editor</resp>
+<name xml:id="n506.048150">Herbert, Lynley</name>
+</respStmt>
+<respStmt xml:id="n506.048151"><resp xml:id="n506.048152">Copy editor</resp>
+<name xml:id="n506.048153">Dibble, Charles</name>
+</respStmt>
+<respStmt xml:id="n506.048154"><resp xml:id="n506.048155">Contributor</resp>
+<name xml:id="n506.048156">Bockrath, Diane</name>
+</respStmt>
+<respStmt xml:id="n506.048157"><resp xml:id="n506.048158">Contributor</resp>
+<name xml:id="n506.048159">Davis, Lisa Fagin</name>
+</respStmt>
+<respStmt xml:id="n506.048160"><resp xml:id="n506.048161">Contributor</resp>
+<name xml:id="n506.048162">Emery, Doug</name>
+</respStmt>
+<respStmt xml:id="n506.048163"><resp xml:id="n506.048164">Contributor</resp>
+<name xml:id="n506.048165">Hamburger, Jeffrey</name>
+</respStmt>
+<respStmt xml:id="n506.048166"><resp xml:id="n506.048167">Contributor</resp>
+<name xml:id="n506.048168">Klemm, Elizabeth</name>
+</respStmt>
+<respStmt xml:id="n506.048169"><resp xml:id="n506.048170">Contributor</resp>
+<name xml:id="n506.048171">Noel, William</name>
+</respStmt>
+<respStmt xml:id="n506.048172"><resp xml:id="n506.048173">Contributor</resp>
+<name xml:id="n506.048174">Tabritha, Ariel</name>
+</respStmt>
+<respStmt xml:id="n506.048175"><resp xml:id="n506.048176">Contributor</resp>
+<name xml:id="n506.048177">Toth, Michael B.</name>
+</respStmt>
+<respStmt xml:id="n506.048178"><resp xml:id="n506.048179">Conservator</resp>
+<name xml:id="n506.048180">Owen, Linda</name>
+</respStmt>
+<respStmt xml:id="n506.048181"><resp xml:id="n506.048182">Conservator</resp>
+<name xml:id="n506.048183">Quandt, Abigail</name>
+</respStmt>
+</titleStmt>
+<publicationStmt xml:id="n506.048184"><publisher xml:id="pub-wam">The Walters Art Museum</publisher>
+<availability xml:id="n506.048185"><p xml:id="n506.048186">Licensed for use under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported Access Rights, http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode. It is requested that copies of any published articles based on the information in this data set be sent to the curator of manuscripts, The Walters Art Museum, 600 North Charles Street, Baltimore MD 21201.</p>
+</availability>
+</publicationStmt>
+<notesStmt xml:id="n506.048187"><note type="abstract" xml:id="n506.048188">This manuscript fragment provides valuable clues about the prayer book of which it was once a part. The colophon on the verso of the image records that the manuscript was written at the Monastery of SS. Ulrich and Afra in Augsburg, Germany, in 1516 by the prolific scribe Leonhard Wirstlin, known also as Leonhard Wagner. The image on the recto, a simple but expressive drawing of the crucified Christ, may be connected to another important figure from the time, as it is believed to be the work of an artist from the circle of Hans Holbein the Elder. A painted floral border, now missing its accompanying text, has traditionally been paired with the intact leaf and is presumed to have come from the same manuscript. Although the illuminations are striking, the main leaf was originally purchased by the Walters not for its art but for its script: it provides an excellent example of what is referred to as Augsburg Maximilian script, which has interesting parallels in printed works of the same period.</note>
+</notesStmt>
+<sourceDesc xml:id="n506.048189"><msDesc xml:id="n506.048190"><msIdentifier xml:id="n506.048191"><settlement xml:id="n506.048192">Baltimore</settlement>
+<repository xml:id="n506.048193">The Walters Art Museum</repository>
+<idno xml:id="n506.048194">W.732</idno>
+</msIdentifier>
+<msContents xml:id="n506.048195"><textLang mainLang="lat" xml:id="n506.048196">The primary language in this manuscript is Latin.</textLang>
+<msItem xml:id="n506.048197" n="item 687"><locus from="W.732Ar" to="W.732Bv" xml:id="n506.048198">W.732Ar - W.732Bv</locus>
+<title type="work" xml:id="n506.048199">Prayer book fragments</title>
+<colophon xml:id="n506.048200"><locus from="W.732Av" xml:id="n506.048201"/>
+<note type="colophon-transliterated" xml:id="n506.048202">Finit per fratrem Leonhardum Wirstlin presbiterum et conventualem monasterij sanctorum udalrici et affrem augusta vindelicorum 1516</note>
+<note type="colophon-translated" xml:id="n506.048203">Leonhard Wirstlin, conventual priest of the Monastery of SS. Ulrich and Afra in Augsburg, finished this in 1516</note>
+</colophon>
+</msItem>
+</msContents>
+<physDesc xml:id="n506.048204"><objectDesc form="leaves" xml:id="n506.048205"><supportDesc material="parchment" xml:id="n506.048206"><support xml:id="n506.048207"><p xml:id="n506.048208">Medium-weight, heavily worn parchment</p>
+</support>
+<extent xml:id="n506.048209">Foliation: Not applicable<dimensions type="leaves" xml:id="n506.048210"><height unit="cm" xml:id="n506.048211">13.7</height>
+<width unit="cm" xml:id="n506.048212">10.9</width>
+</dimensions>
+<dimensions type="written" xml:id="n506.048213" n="item 687"><height unit="cm" xml:id="n506.048214">11.8</height>
+<width unit="cm" xml:id="n506.048215">8.5</width>
+</dimensions>
+</extent>
+<collation xml:id="n506.048216"><p xml:id="n506.048217"><formula xml:id="n506.048218">Not applicable</formula>
+</p>
+</collation>
+</supportDesc>
+<layoutDesc xml:id="n506.048219"><layout xml:id="n506.048220" columns="1" ruledLines="19" n="item 687"/>
+</layoutDesc>
+</objectDesc>
+<handDesc xml:id="n506.048221"><handNote xml:id="n506.048222" n="item 687">Calligraphic cursive book script of Gothic origin, sometimes referred to as Augsburg Maximilian script</handNote>
+</handDesc>
+<decoDesc xml:id="n506.048223"><decoNote xml:id="n506.048224" n="item 687">One full-page miniature, line drawing with green, red, and brown accents; fragment of painted floral border in yellow, red, green, blue, and white; text in black ink</decoNote>
+<decoNote xml:id="n506.048225" n="fol. W.732Ar"><title xml:id="n506.048226">Crucifixion</title>
+<note type="decoration-form" xml:id="n506.048227">Full-page miniature</note>
+<note type="decoration-comment" xml:id="n506.048228"><p xml:id="n506.048229">Attributed to an artist of the school of Hans Holbein the Elder.</p>
+</note>
+</decoNote>
+<decoNote xml:id="n506.048230" n="fol. W.732Br"><title xml:id="n506.048231">Fragment of floral text border</title>
+<note type="decoration-form" xml:id="n506.048232">Marginal decoration</note>
+</decoNote>
+</decoDesc>
+</physDesc>
+<history xml:id="n506.048233"><origin xml:id="n506.048234" when="1516"><origDate xml:id="n506.048235">Dated 1516</origDate>
+<origPlace xml:id="n506.048236">Augsburg, Germany</origPlace>
+</origin>
+<provenance xml:id="n506.048237">Leaf was originally the colophon of a prayer book, written at the Monastery of SS. Ulrich and Afra in Augsburg, Germany, in 1516 by friar Leonhard Wirstlin</provenance>
+<provenance xml:id="n506.048238">Ed. Schultze, before 1901, his stamp on recto; sold in his sale in Munich, February 7-15, 1901</provenance>
+<provenance xml:id="n506.048239">Fred Werther, Baltimore, before 1945</provenance>
+<provenance xml:id="n506.048240">Walters Art Museum, purchased from Werther in May 1945, for $10.00</provenance>
+<acquisition xml:id="n506.048241">Museum purchase</acquisition>
+</history>
+</msDesc>
+<listBibl xml:id="n506.048242"><head xml:id="n506.048243">Relevant Works</head>
+<bibl xml:id="n506.048244">Faye, C. U. and W. H. Bond. Supplement to the Census of Medieval and Renaissance Manuscripts in the United States and Canada. New York, 1962, p. 197, no. 559.</bibl>
+<bibl xml:id="n506.048245">Miner, Dorothy. "Since de Ricci--Western Illuminated Manuscripts Acquired since 1934: A Report in Two Parts: Part 1." Journal of the Walters Art Gallery 29-30 (1966): pp. 68-103, pp. 100-103, figs. 23, 24.</bibl>
+<bibl xml:id="n506.048246">"Bulletin Codicologique." Scriptorium 26 (1972): pp. 130-246, p. 208, no. 402.</bibl>
+</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc xml:id="n506.048247"><classDecl xml:id="n506.048248"><taxonomy xml:id="keywords"><category xml:id="keyword_3"><catDesc xml:id="n506.048249">Art</catDesc>
+</category>
+<category xml:id="keyword_26"><catDesc xml:id="n506.048250">Medicine</catDesc>
+</category>
+<category xml:id="keyword_29"><catDesc xml:id="n506.048251">Museum</catDesc>
+</category>
+<category xml:id="keyword_34"><catDesc xml:id="n506.048252">Poetry</catDesc>
+</category>
+<category xml:id="keyword_39"><catDesc xml:id="n506.048253">Script</catDesc>
+</category>
+<category xml:id="keyword_54"><catDesc xml:id="n506.048254">Muhammad, the Prophet</catDesc>
+</category>
+<category xml:id="keyword_83"><catDesc xml:id="n506.048255">Kashmiri</catDesc>
+</category>
+<category xml:id="keyword_84"><catDesc xml:id="n506.048256">Horses</catDesc>
+</category>
+<category xml:id="keyword_45"><catDesc xml:id="n506.048257">Walters Art Museum</catDesc>
+</category>
+<category xml:id="keyword_139"><catDesc xml:id="n506.048258">Document</catDesc>
+</category>
+<category xml:id="keyword_62"><catDesc xml:id="n506.048259">Astrology</catDesc>
+</category>
+<category xml:id="keyword_87"><catDesc xml:id="n506.048260">Devotion</catDesc>
+</category>
+<category xml:id="keyword_15"><catDesc xml:id="n506.048261">History</catDesc>
+</category>
+<category xml:id="keyword_88"><catDesc xml:id="n506.048262">Legal</catDesc>
+</category>
+<category xml:id="keyword_89"><catDesc xml:id="n506.048263">Literature -- Poetry</catDesc>
+</category>
+<category xml:id="keyword_90"><catDesc xml:id="n506.048264">Literature -- Prose</catDesc>
+</category>
+<category xml:id="keyword_91"><catDesc xml:id="n506.048265">Liturgy</catDesc>
+</category>
+<category xml:id="keyword_92"><catDesc xml:id="n506.048266">Philosophy</catDesc>
+</category>
+<category xml:id="keyword_38"><catDesc xml:id="n506.048267">Science</catDesc>
+</category>
+<category xml:id="keyword_93"><catDesc xml:id="n506.048268">Science -- Medicine</catDesc>
+</category>
+<category xml:id="keyword_40"><catDesc xml:id="n506.048269">Scripture</catDesc>
+</category>
+<category xml:id="keyword_55"><catDesc xml:id="n506.048270">Sufism</catDesc>
+</category>
+<category xml:id="keyword_94"><catDesc xml:id="n506.048271">Theology</catDesc>
+</category>
+<category xml:id="keyword_53"><catDesc xml:id="n506.048272">Mineralogy</catDesc>
+</category>
+<category xml:id="keyword_60"><catDesc xml:id="n506.048273">Logic</catDesc>
+</category>
+<category xml:id="keyword_50"><catDesc xml:id="n506.048274">Geography</catDesc>
+</category>
+<category xml:id="keyword_64"><catDesc xml:id="n506.048275">Geomancy</catDesc>
+</category>
+<category xml:id="keyword_10"><catDesc xml:id="n506.048276">Cosmology</catDesc>
+</category>
+<category xml:id="keyword_49"><catDesc xml:id="n506.048277">Cartography</catDesc>
+</category>
+<category xml:id="keyword_63"><catDesc xml:id="n506.048278">Fortune-telling</catDesc>
+</category>
+<category xml:id="keyword_23"><catDesc xml:id="n506.048279">Koran</catDesc>
+</category>
+<category xml:id="keyword_36"><catDesc xml:id="n506.048280">Qur`an</catDesc>
+</category>
+<category xml:id="keyword_77"><catDesc xml:id="n506.048281">Firman</catDesc>
+</category>
+<category xml:id="keyword_61"><catDesc xml:id="n506.048282">Palimpsest</catDesc>
+</category>
+<category xml:id="keyword_35"><catDesc xml:id="n506.048283">Prayer</catDesc>
+</category>
+<category xml:id="keyword_95"><catDesc xml:id="n506.048284">Bible</catDesc>
+</category>
+<category xml:id="keyword_96"><catDesc xml:id="n506.048285">Gospels</catDesc>
+</category>
+<category xml:id="keyword_97"><catDesc xml:id="n506.048286">Psalter</catDesc>
+</category>
+<category xml:id="keyword_98"><catDesc xml:id="n506.048287">Missal</catDesc>
+</category>
+<category xml:id="keyword_99"><catDesc xml:id="n506.048288">Lectionary</catDesc>
+</category>
+<category xml:id="keyword_100"><catDesc xml:id="n506.048289">Book of Hours</catDesc>
+</category>
+<category xml:id="keyword_101"><catDesc xml:id="n506.048290">Antiphonary</catDesc>
+</category>
+<category xml:id="keyword_104"><catDesc xml:id="n506.048291">Homilary</catDesc>
+</category>
+<category xml:id="keyword_105"><catDesc xml:id="n506.048292">Processional</catDesc>
+</category>
+<category xml:id="keyword_106"><catDesc xml:id="n506.048293">Horologion</catDesc>
+</category>
+<category xml:id="keyword_107"><catDesc xml:id="n506.048294">Breviary</catDesc>
+</category>
+<category xml:id="keyword_108"><catDesc xml:id="n506.048295">Hymnal</catDesc>
+</category>
+<category xml:id="keyword_109"><catDesc xml:id="n506.048296">Chronicle</catDesc>
+</category>
+<category xml:id="keyword_51"><catDesc xml:id="n506.048297">Maghreb</catDesc>
+</category>
+<category xml:id="keyword_56"><catDesc xml:id="n506.048298">Sub-Saharan (West) Africa</catDesc>
+</category>
+<category xml:id="keyword_42"><catDesc xml:id="n506.048299">Turkey</catDesc>
+</category>
+<category xml:id="keyword_81"><catDesc xml:id="n506.048300">Afghanistan</catDesc>
+</category>
+<category xml:id="keyword_57"><catDesc xml:id="n506.048301">Central Asia</catDesc>
+</category>
+<category xml:id="keyword_11"><catDesc xml:id="n506.048302">Egypt</catDesc>
+</category>
+<category xml:id="keyword_69"><catDesc xml:id="n506.048303">England</catDesc>
+</category>
+<category xml:id="keyword_18"><catDesc xml:id="n506.048304">India</catDesc>
+</category>
+<category xml:id="keyword_20"><catDesc xml:id="n506.048305">Iran</catDesc>
+</category>
+<category xml:id="keyword_21"><catDesc xml:id="n506.048306">Iraq</catDesc>
+</category>
+<category xml:id="keyword_80"><catDesc xml:id="n506.048307">Pakistan</catDesc>
+</category>
+<category xml:id="keyword_111"><catDesc xml:id="n506.048308">Germany</catDesc>
+</category>
+<category xml:id="keyword_112"><catDesc xml:id="n506.048309">France</catDesc>
+</category>
+<category xml:id="keyword_113"><catDesc xml:id="n506.048310">Austria</catDesc>
+</category>
+<category xml:id="keyword_114"><catDesc xml:id="n506.048311">Netherlands</catDesc>
+</category>
+<category xml:id="keyword_115"><catDesc xml:id="n506.048312">Ethiopia</catDesc>
+</category>
+<category xml:id="keyword_116"><catDesc xml:id="n506.048313">Armenia</catDesc>
+</category>
+<category xml:id="keyword_117"><catDesc xml:id="n506.048314">Flanders</catDesc>
+</category>
+<category xml:id="keyword_118"><catDesc xml:id="n506.048315">Greece</catDesc>
+</category>
+<category xml:id="keyword_52"><catDesc xml:id="n506.048316">Mamluk</catDesc>
+</category>
+<category xml:id="keyword_28"><catDesc xml:id="n506.048317">Mughal</catDesc>
+</category>
+<category xml:id="keyword_31"><catDesc xml:id="n506.048318">Ottoman</catDesc>
+</category>
+<category xml:id="keyword_68"><catDesc xml:id="n506.048319">Ottonian</catDesc>
+</category>
+<category xml:id="keyword_78"><catDesc xml:id="n506.048320">Armenian</catDesc>
+</category>
+<category xml:id="keyword_73"><catDesc xml:id="n506.048321">Byzantine</catDesc>
+</category>
+<category xml:id="keyword_1"><catDesc xml:id="n506.048322">Abbasid</catDesc>
+</category>
+<category xml:id="keyword_79"><catDesc xml:id="n506.048323">Qajar</catDesc>
+</category>
+<category xml:id="keyword_65"><catDesc xml:id="n506.048324">Rajput</catDesc>
+</category>
+<category xml:id="keyword_7"><catDesc xml:id="n506.048325">Christian</catDesc>
+</category>
+<category xml:id="keyword_2"><catDesc xml:id="n506.048326">Arabic</catDesc>
+</category>
+<category xml:id="keyword_74"><catDesc xml:id="n506.048327">Austrian</catDesc>
+</category>
+<category xml:id="keyword_75"><catDesc xml:id="n506.048328">Dutch</catDesc>
+</category>
+<category xml:id="keyword_12"><catDesc xml:id="n506.048329">Egyptian</catDesc>
+</category>
+<category xml:id="keyword_13"><catDesc xml:id="n506.048330">Fatimid</catDesc>
+</category>
+<category xml:id="keyword_70"><catDesc xml:id="n506.048331">German</catDesc>
+</category>
+<category xml:id="keyword_19"><catDesc xml:id="n506.048332">Indian</catDesc>
+</category>
+<category xml:id="keyword_22"><catDesc xml:id="n506.048333">Islamic</catDesc>
+</category>
+<category xml:id="keyword_33"><catDesc xml:id="n506.048334">Persian</catDesc>
+</category>
+<category xml:id="keyword_37"><catDesc xml:id="n506.048335">Safavid</catDesc>
+</category>
+<category xml:id="keyword_41"><catDesc xml:id="n506.048336">Timurid</catDesc>
+</category>
+<category xml:id="keyword_43"><catDesc xml:id="n506.048337">Turkish</catDesc>
+</category>
+<category xml:id="keyword_44"><catDesc xml:id="n506.048338">Umayyad</catDesc>
+</category>
+<category xml:id="keyword_119"><catDesc xml:id="n506.048339">English</catDesc>
+</category>
+<category xml:id="keyword_120"><catDesc xml:id="n506.048340">French</catDesc>
+</category>
+<category xml:id="keyword_121"><catDesc xml:id="n506.048341">Flemish</catDesc>
+</category>
+<category xml:id="keyword_122"><catDesc xml:id="n506.048342">Ethiopian</catDesc>
+</category>
+<category xml:id="keyword_86"><catDesc xml:id="n506.048343">Carolingian</catDesc>
+</category>
+<category xml:id="keyword_6"><catDesc xml:id="n506.048344">Calligraphy</catDesc>
+</category>
+<category xml:id="keyword_9"><catDesc xml:id="n506.048345">Colophon</catDesc>
+</category>
+<category xml:id="keyword_14"><catDesc xml:id="n506.048346">Headpiece</catDesc>
+</category>
+<category xml:id="keyword_16"><catDesc xml:id="n506.048347">Illumination</catDesc>
+</category>
+<category xml:id="keyword_17"><catDesc xml:id="n506.048348">Illustration</catDesc>
+</category>
+<category xml:id="keyword_25"><catDesc xml:id="n506.048349">Medallion</catDesc>
+</category>
+<category xml:id="keyword_27"><catDesc xml:id="n506.048350">Miniature</catDesc>
+</category>
+<category xml:id="keyword_30"><catDesc xml:id="n506.048351">Ornament</catDesc>
+</category>
+<category xml:id="keyword_32"><catDesc xml:id="n506.048352">Painting</catDesc>
+</category>
+<category xml:id="keyword_59"><catDesc xml:id="n506.048353">Early Abbasid script</catDesc>
+</category>
+<category xml:id="keyword_76"><catDesc xml:id="n506.048354">Ragini</catDesc>
+</category>
+<category xml:id="keyword_71"><catDesc xml:id="n506.048355">Romanesque</catDesc>
+</category>
+<category xml:id="keyword_72"><catDesc xml:id="n506.048356">Gothic</catDesc>
+</category>
+<category xml:id="keyword_123"><catDesc xml:id="n506.048357">Watermark</catDesc>
+</category>
+<category xml:id="keyword_127"><catDesc xml:id="n506.048358">Grotesques</catDesc>
+</category>
+<category xml:id="keyword_128"><catDesc xml:id="n506.048359">Historiated initial</catDesc>
+</category>
+<category xml:id="keyword_129"><catDesc xml:id="n506.048360">Inhabited initial</catDesc>
+</category>
+<category xml:id="keyword_132"><catDesc xml:id="n506.048361">White-vine lettering</catDesc>
+</category>
+<category xml:id="keyword_134"><catDesc xml:id="n506.048362">Textura</catDesc>
+</category>
+<category xml:id="keyword_135"><catDesc xml:id="n506.048363">Batarda</catDesc>
+</category>
+<category xml:id="keyword_136"><catDesc xml:id="n506.048364">Humanistic</catDesc>
+</category>
+<category xml:id="keyword_137"><catDesc xml:id="n506.048365">Uncial</catDesc>
+</category>
+<category xml:id="keyword_66"><catDesc xml:id="n506.048366">Accordion book</catDesc>
+</category>
+<category xml:id="keyword_67"><catDesc xml:id="n506.048367">Album</catDesc>
+</category>
+<category xml:id="keyword_5"><catDesc xml:id="n506.048368">Book</catDesc>
+</category>
+<category xml:id="keyword_8"><catDesc xml:id="n506.048369">Codex</catDesc>
+</category>
+<category xml:id="keyword_24"><catDesc xml:id="n506.048370">Manuscript</catDesc>
+</category>
+<category xml:id="keyword_138"><catDesc xml:id="n506.048371">Heraldry</catDesc>
+</category>
+<category xml:id="keyword_103"><catDesc xml:id="n506.048372">Saint's Life</catDesc>
+</category>
+<category xml:id="keyword_143"><catDesc xml:id="n506.048373">Drawing</catDesc>
+</category>
+<category xml:id="keyword_140"><catDesc xml:id="n506.048374">Grisaille</catDesc>
+</category>
+<category xml:id="keyword_126"><catDesc xml:id="n506.048375">Binding</catDesc>
+</category>
+<category xml:id="keyword_58"><catDesc xml:id="n506.048376">New Abbasid style</catDesc>
+</category>
+<category xml:id="keyword_158"><catDesc xml:id="n506.048377">Musical notation</catDesc>
+</category>
+<category xml:id="keyword_159"><catDesc xml:id="n506.048378">Russia</catDesc>
+</category>
+<category xml:id="keyword_85"><catDesc xml:id="n506.048379">Romania</catDesc>
+</category>
+<category xml:id="keyword_144"><catDesc xml:id="n506.048380">Charter</catDesc>
+</category>
+<category xml:id="keyword_160"><catDesc xml:id="n506.048381">Russian</catDesc>
+</category>
+<category xml:id="keyword_141"><catDesc xml:id="n506.048382">Genealogy</catDesc>
+</category>
+<category xml:id="keyword_161"><catDesc xml:id="n506.048383">Mass book</catDesc>
+</category>
+<category xml:id="keyword_102"><catDesc xml:id="n506.048384">Prayer book</catDesc>
+</category>
+<category xml:id="keyword_162"><catDesc xml:id="n506.048385">Gospel Lectionary</catDesc>
+</category>
+<category xml:id="keyword_110"><catDesc xml:id="n506.048386">Psalter-Hours</catDesc>
+</category>
+<category xml:id="keyword_163"><catDesc xml:id="n506.048387">Treatise</catDesc>
+</category>
+<category xml:id="keyword_164"><catDesc xml:id="n506.048388">Grammar</catDesc>
+</category>
+<category xml:id="keyword_165"><catDesc xml:id="n506.048389">Gloss</catDesc>
+</category>
+<category xml:id="keyword_166"><catDesc xml:id="n506.048390">Pontifical</catDesc>
+</category>
+<category xml:id="keyword_167"><catDesc xml:id="n506.048391">Private devotional text</catDesc>
+</category>
+<category xml:id="keyword_168"><catDesc xml:id="n506.048392">Gradual</catDesc>
+</category>
+<category xml:id="keyword_169"><catDesc xml:id="n506.048393">Protective scroll</catDesc>
+</category>
+<category xml:id="keyword_170"><catDesc xml:id="n506.048394">Scroll</catDesc>
+</category>
+<category xml:id="keyword_147"><catDesc xml:id="n506.048395">10th century</catDesc>
+</category>
+<category xml:id="keyword_148"><catDesc xml:id="n506.048396">11th century</catDesc>
+</category>
+<category xml:id="keyword_149"><catDesc xml:id="n506.048397">12th century</catDesc>
+</category>
+<category xml:id="keyword_150"><catDesc xml:id="n506.048398">13th century</catDesc>
+</category>
+<category xml:id="keyword_151"><catDesc xml:id="n506.048399">14th century</catDesc>
+</category>
+<category xml:id="keyword_152"><catDesc xml:id="n506.048400">15th century</catDesc>
+</category>
+<category xml:id="keyword_153"><catDesc xml:id="n506.048401">16th century</catDesc>
+</category>
+<category xml:id="keyword_154"><catDesc xml:id="n506.048402">17th century</catDesc>
+</category>
+<category xml:id="keyword_155"><catDesc xml:id="n506.048403">18th century</catDesc>
+</category>
+<category xml:id="keyword_156"><catDesc xml:id="n506.048404">19th century</catDesc>
+</category>
+<category xml:id="keyword_157"><catDesc xml:id="n506.048405">20th century</catDesc>
+</category>
+<category xml:id="keyword_145"><catDesc xml:id="n506.048406">8th century</catDesc>
+</category>
+<category xml:id="keyword_146"><catDesc xml:id="n506.048407">9th century</catDesc>
+</category>
+<category xml:id="keyword_142"><catDesc xml:id="n506.048408">Block book</catDesc>
+</category>
+<category xml:id="keyword_130"><catDesc xml:id="n506.048409">Caroline minuscule</catDesc>
+</category>
+<category xml:id="keyword_48"><catDesc xml:id="n506.048410">Central Arab lands (Near East)</catDesc>
+</category>
+<category xml:id="keyword_82"><catDesc xml:id="n506.048411">Chart</catDesc>
+</category>
+<category xml:id="keyword_133"><catDesc xml:id="n506.048412">English secretary hand</catDesc>
+</category>
+<category xml:id="keyword_47"><catDesc xml:id="n506.048413">Kufic</catDesc>
+</category>
+<category xml:id="keyword_131"><catDesc xml:id="n506.048414">Gothic book hand</catDesc>
+</category>
+<category xml:id="keyword_125"><catDesc xml:id="n506.048415">Original binding</catDesc>
+</category>
+<category xml:id="keyword_124"><catDesc xml:id="n506.048416">Treasure binding</catDesc>
+</category>
+<category xml:id="keyword_171"><catDesc xml:id="n506.048417">Gospel Book</catDesc>
+</category>
+<category xml:id="keyword_172"><catDesc xml:id="n506.048418">Spanish</catDesc>
+</category>
+<category xml:id="keyword_173"><catDesc xml:id="n506.048419">Spain</catDesc>
+</category>
+<category xml:id="keyword_174"><catDesc xml:id="n506.048420">Italian</catDesc>
+</category>
+<category xml:id="keyword_175"><catDesc xml:id="n506.048421">Italy</catDesc>
+</category>
+<category xml:id="keyword_176"><catDesc xml:id="n506.048422">Coptic</catDesc>
+</category>
+<category xml:id="keyword_177"><catDesc xml:id="n506.048423">Scrapbook</catDesc>
+</category>
+<category xml:id="keyword_178"><catDesc xml:id="n506.048424">American</catDesc>
+</category>
+<category xml:id="keyword_179"><catDesc xml:id="n506.048425">United States</catDesc>
+</category>
+<category xml:id="keyword_180"><catDesc xml:id="n506.048426">Maryland Historical Society</catDesc>
+</category>
+<category xml:id="keyword_181"><catDesc xml:id="n506.048427">Friendship book</catDesc>
+</category>
+<category xml:id="keyword_182"><catDesc xml:id="n506.048428">Friendship</catDesc>
+</category>
+</taxonomy>
+<taxonomy xml:id="genres"><category xml:id="genre_1"><catDesc xml:id="n506.048429">Liturgical</catDesc>
+</category>
+<category xml:id="genre_2"><catDesc xml:id="n506.048430">Devotional</catDesc>
+</category>
+<category xml:id="genre_3"><catDesc xml:id="n506.048431">Scriptural</catDesc>
+</category>
+<category xml:id="genre_4"><catDesc xml:id="n506.048432">Theological</catDesc>
+</category>
+<category xml:id="genre_5"><catDesc xml:id="n506.048433">Legal</catDesc>
+</category>
+<category xml:id="genre_6"><catDesc xml:id="n506.048434">Historical</catDesc>
+</category>
+<category xml:id="genre_7"><catDesc xml:id="n506.048435">Scientific</catDesc>
+</category>
+<category xml:id="genre_8"><catDesc xml:id="n506.048436">Scientific -- Medical</catDesc>
+</category>
+<category xml:id="genre_9"><catDesc xml:id="n506.048437">Literary -- Prose</catDesc>
+</category>
+<category xml:id="genre_10"><catDesc xml:id="n506.048438">Literary -- Poetry</catDesc>
+</category>
+<category xml:id="genre_11"><catDesc xml:id="n506.048439">Philosophical</catDesc>
+</category>
+<category xml:id="genre_12"><catDesc xml:id="n506.048440">Astrological</catDesc>
+</category>
+<category xml:id="genre_13"><catDesc xml:id="n506.048441">Sufi</catDesc>
+</category>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc xml:id="n506.048442"><langUsage xml:id="n506.048443"><language xml:id="n506.048444" ident="en">English</language>
+</langUsage>
+<textClass xml:id="n506.048445"><catRef xml:id="n506.048446" target="#genre_2" scheme="#genres"/>
+<keywords xml:id="n506.048447" scheme="#keywords"><list xml:id="n506.048448"><item xml:id="n506.048449">Prayer book</item>
+<item xml:id="n506.048450">Christian</item>
+<item xml:id="n506.048451">German</item>
+<item xml:id="n506.048452">Colophon</item>
+<item xml:id="n506.048453">Drawing</item>
+<item xml:id="n506.048454">Illumination</item>
+<item xml:id="n506.048455">Manuscript</item>
+<item xml:id="n506.048456">Miniature</item>
+<item xml:id="n506.048457">Walters Art Museum</item>
+<item xml:id="n506.048458">Germany</item>
+<item xml:id="n506.048459">16th century</item>
+<item xml:id="n506.048460">Devotion</item>
+</list>
+</keywords>
+</textClass>
+</profileDesc>
+</teiHeader>
+<facsimile xml:id="n506.048461"><surface xml:id="n506.048102" n="fol. W.732Ar"><graphic url="master/W732_000001_1109.tif" width="7364px" xml:id="n506.048103" height="8820px"/>
+<graphic url="300/W732_000001_300.tif" width="1557px" xml:id="n506.048104" height="1830px"/>
+<graphic url="sap/W732_000001_sap.jpg" width="1532px" xml:id="n506.048105" height="1800px"/>
+<graphic url="thumb/W732_000001_thumb.jpg" width="162px" xml:id="n506.048106" height="190px"/>
+</surface>
+<surface xml:id="n506.048107" n="fol. W.732Av"><graphic url="master/W732_000002_600.tif" width="5312px" xml:id="n506.048108" height="6294px"/>
+<graphic url="300/W732_000002_300.tif" width="2057px" xml:id="n506.048109" height="2432px"/>
+<graphic url="sap/W732_000002_sap.jpg" width="1522px" xml:id="n506.048110" height="1800px"/>
+<graphic url="thumb/W732_000002_thumb.jpg" width="161px" xml:id="n506.048111" height="190px"/>
+</surface>
+<surface xml:id="n506.048112" n="fol. W.732Br"><graphic url="master/W732_000003_1109.tif" width="7343px" xml:id="n506.048113" height="9007px"/>
+<graphic url="300/W732_000003_300.tif" width="1515px" xml:id="n506.048114" height="1864px"/>
+<graphic url="sap/W732_000003_sap.jpg" width="1463px" xml:id="n506.048115" height="1800px"/>
+<graphic url="thumb/W732_000003_thumb.jpg" width="154px" xml:id="n506.048116" height="190px"/>
+</surface>
+<surface xml:id="n506.048117" n="fol. W.732Bv"><graphic url="master/W732_000004_600.tif" width="5341px" xml:id="n506.048118" height="6385px"/>
+<graphic url="300/W732_000004_300.tif" width="2071px" xml:id="n506.048119" height="2473px"/>
+<graphic url="sap/W732_000004_sap.jpg" width="1507px" xml:id="n506.048120" height="1800px"/>
+<graphic url="thumb/W732_000004_thumb.jpg" width="159px" xml:id="n506.048121" height="190px"/>
+</surface>
+</facsimile>
+</TEI>
